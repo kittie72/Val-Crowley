@@ -1,0 +1,29 @@
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}
+
+img { </>
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+
+.penguins {
+  display:flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+
+
+
+.penguins img{
+  width:300px;
+  max-width: 100%;
+  height: auto;
+}
